@@ -1,0 +1,14 @@
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\bin\Debug\net8.0\ProjetoVeiculo.exe
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\bin\Debug\net8.0\ProjetoVeiculo.deps.json
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\bin\Debug\net8.0\ProjetoVeiculo.runtimeconfig.json
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\bin\Debug\net8.0\ProjetoVeiculo.dll
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\bin\Debug\net8.0\ProjetoVeiculo.pdb
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\obj\Debug\net8.0\ProjetoVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\obj\Debug\net8.0\ProjetoVeiculo.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\obj\Debug\net8.0\ProjetoVeiculo.AssemblyInfo.cs
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\obj\Debug\net8.0\ProjetoVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\obj\Debug\net8.0\ProjetoVeiculo.dll
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\obj\Debug\net8.0\refint\ProjetoVeiculo.dll
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\obj\Debug\net8.0\ProjetoVeiculo.pdb
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\obj\Debug\net8.0\ProjetoVeiculo.genruntimeconfig.cache
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\ProjetoVeiculo\ProjetoVeiculo\obj\Debug\net8.0\ref\ProjetoVeiculo.dll

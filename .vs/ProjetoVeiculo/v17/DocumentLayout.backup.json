@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\ProjetoVeiculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1FEC45-D7A5-4C4D-917F-A8D1CA365FA1}|ProjetoVeiculo\\ProjetoVeiculo.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\programa\u00E7\u00E3o orientada a objetos\\projetoveiculo\\projetoveiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1FEC45-D7A5-4C4D-917F-A8D1CA365FA1}|ProjetoVeiculo\\ProjetoVeiculo.csproj|solutionrelative:projetoveiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1FEC45-D7A5-4C4D-917F-A8D1CA365FA1}|ProjetoVeiculo\\ProjetoVeiculo.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\programa\u00E7\u00E3o orientada a objetos\\projetoveiculo\\projetoveiculo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1FEC45-D7A5-4C4D-917F-A8D1CA365FA1}|ProjetoVeiculo\\ProjetoVeiculo.csproj|solutionrelative:projetoveiculo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1FEC45-D7A5-4C4D-917F-A8D1CA365FA1}|ProjetoVeiculo\\ProjetoVeiculo.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\programa\u00E7\u00E3o orientada a objetos\\projetoveiculo\\projetoveiculo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1FEC45-D7A5-4C4D-917F-A8D1CA365FA1}|ProjetoVeiculo\\ProjetoVeiculo.csproj|solutionrelative:projetoveiculo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\ProjetoVeiculo\\ProjetoVeiculo\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProjetoVeiculo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\ProjetoVeiculo\\ProjetoVeiculo\\Cliente.cs",
+              "RelativeToolTip": "ProjetoVeiculo\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:55:16.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\ProjetoVeiculo\\ProjetoVeiculo\\Veiculo.cs",
+              "RelativeDocumentMoniker": "ProjetoVeiculo\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\ProjetoVeiculo\\ProjetoVeiculo\\Veiculo.cs",
+              "RelativeToolTip": "ProjetoVeiculo\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:07:17.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\ProjetoVeiculo\\ProjetoVeiculo\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoVeiculo\\Program.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\ProjetoVeiculo\\ProjetoVeiculo\\Program.cs",
+              "RelativeToolTip": "ProjetoVeiculo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:07:01.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
